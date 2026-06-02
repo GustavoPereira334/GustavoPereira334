@@ -79,7 +79,7 @@ Tenho interesse em desenvolvimento web e integração de APIs, e estudo com cons
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🔗 [Nome do Projeto 1](https://github.com/GustavoPereira334/ChegadasTardias) | Breve descrição do que resolve | HTML · CSS · JavaScript |
+| 🔗 [Sistema de Chegadas Tardias](https://github.com/GustavoPereira334/ChegadasTardias) | Breve descrição do que resolve | HTML · CSS · JavaScript |
 
 ---
 
