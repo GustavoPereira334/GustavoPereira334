@@ -11,7 +11,7 @@ do problema até a implementação, integração e manutenção do sistema.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-pereira-926381413)
 [![E-mail](https://img.shields.io/badge/E--mail-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopereira7782@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoPereira334)
 
 </div>
 
@@ -32,7 +32,6 @@ modelagem de dados e arquitetura de sistemas.
 - 🗄️ Integração com bancos de dados
 - 📱 Criação de interfaces responsivas
 - 🧠 Estudo contínuo de arquitetura e boas práticas
-- 🚀 Experiência prática por meio de projetos como o **Journey**
 
 ---
 
@@ -47,8 +46,8 @@ modelagem de dados e arquitetura de sistemas.
 - HTML5 e CSS3
 - JavaScript e TypeScript
 - React
-- Vite
 - Tailwind CSS
+- Bootstrap
 - Interfaces responsivas
 - Componentização e gerenciamento de estado
 
@@ -98,39 +97,6 @@ modelagem de dados e arquitetura de sistemas.
 ---
 
 ## Projeto em destaque
-
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🚀 Journey</h3>
-      <p>
-        Aplicação desenvolvida para colocar em prática conceitos de análise de sistemas,
-        desenvolvimento frontend, backend, autenticação, integração de APIs e banco de dados.
-      </p>
-      <p>
-        O projeto foi construído com foco em organização, experiência do usuário,
-        responsividade e evolução contínua da arquitetura.
-      </p>
-      <p>
-        <a href="LINK-DO-REPOSITORIO-JOURNEY">
-          <strong>Visualizar repositório →</strong>
-        </a>
-      </p>
-    </td>
-    <td width="40%">
-      <strong>Tecnologias</strong>
-      <br><br>
-      JavaScript · TypeScript<br>
-      React · Vite<br>
-      Node.js · Express<br>
-      API REST<br>
-      Banco de dados<br>
-      Git · GitHub
-    </td>
-  </tr>
-</table>
-
----
 
 ## Outros projetos
 
